@@ -1,0 +1,29 @@
+window {
+  margin: 5px;
+  border: 2px solid #519fdf;
+  background-color: #1e222a;
+}
+
+#entry {
+  margin: 0px;
+}
+
+#entry:selected {
+  border: 1px dotted #519fdf;
+  background-color: #2e3340;
+}
+
+#text {
+  color: #abb2bf;
+}
+
+#text:selected {
+  color: #abb2bf;
+}
+
+#input {
+  margin: 2px;
+  border: none;
+  color: #7da869;
+  background-color: transparent;
+}
