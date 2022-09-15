@@ -2,6 +2,6 @@
 
 export MOZ_ENABLE_WAYLAND=1
 export GDK_SCALE=2
-export GDK_DPI_SCALE=1.8
+export GDK_DPI_SCALE=1.75
 
 exec sway
